@@ -37,7 +37,7 @@
        |           ├──0000
        |           ├──....
        |           └──0028      
-       └── training  # 与训练集结构一样
+       └── training  # same as above
               ├──calib
               ├──image_02
               ├──pose
